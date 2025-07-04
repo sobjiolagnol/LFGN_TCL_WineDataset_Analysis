@@ -55,7 +55,7 @@ $\frac{\sqrt{n}(\bar{X}_n - \mu)}{\sigma} \xrightarrow{d} \mathcal{N}(0, 1).$
 
 ---
 
-## 🛠 Outils et Technologies
+##  Outils et Technologies
 - **Langage** : Python
 - **Bibliothèques** : Pandas, NumPy, Matplotlib, Seaborn, SciPy
 - **Environnement** : Jupyter Notebook
