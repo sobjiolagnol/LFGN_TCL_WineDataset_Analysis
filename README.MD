@@ -30,16 +30,13 @@ Le jeu de données **Wine Quality** comprend 6497 échantillons de vins, caract�
 ### 1. **Loi Forte des Grands Nombres (LFGN)**
 La LFGN stipule que la moyenne empirique d'un échantillon converge vers la moyenne théorique lorsque la taille de l'échantillon tend vers l'infini.  
 Formellement :  
-\[
-\lim_{n \to \infty} \frac{1}{n} \sum_{i=1}^{n} X_i = \mu \quad \text{presque sûrement.}
-\]
+
+$\lim_{n \to \infty} \frac{1}{n} \sum_{i=1}^{n} X_i = \mu \quad \text{presque sûrement.}$
 
 ### 2. **Théorème Central Limite (TCL)**
 Le TCL affirme que la distribution des moyennes empiriques suit une loi normale pour des échantillons suffisamment grands, quelle que soit la distribution initiale.  
 Formellement :  
-\[
-\frac{\sqrt{n}(\bar{X}_n - \mu)}{\sigma} \xrightarrow{d} \mathcal{N}(0, 1).
-\]
+$\frac{\sqrt{n}(\bar{X}_n - \mu)}{\sigma} \xrightarrow{d} \mathcal{N}(0, 1).$
 
 ### 3. **Biais et Variance**
 - **Biais** : Écart entre l'estimation et la vraie valeur.
