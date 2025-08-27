@@ -65,26 +65,12 @@ $\frac{\sqrt{n}(\bar{X}_n - \mu)}{\sigma} \xrightarrow{d} \mathcal{N}(0, 1).$
 
 ---
 
-##  Licence
-Ce projet est sous licence **MIT**. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
----
-
-## Remerciements
-- **Dataset** : [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
-- **Encadrement** : Ludane Lagnol SOBJIO (ENSAI MS Data Science Pour la Connaissance Client)
-
----
-
-## 📬 Contact
-Pour toute question ou suggestion, n'hésitez pas à me contacter :  
-📧 [Votre Email]  
-🔗 [LinkedIn](https://www.linkedin.com/in/lagnol-sobjio)  
-🐱 [GitHub](https://github.com/sobjiolagnol)  
 
 ---
 
 <div align="center">
   <img src="https://thumbs.dreamstime.com/b/graphique-de-gestion-17998087.jpg" alt="Wine Quality" width="200"/>
 </div>
+
 
