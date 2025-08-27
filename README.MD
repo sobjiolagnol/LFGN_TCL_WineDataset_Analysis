@@ -19,10 +19,6 @@ Le jeu de données **Wine Quality** comprend 6497 échantillons de vins, caract�
 - `fixed_acidity`, `volatile_acidity`, `citric_acid`, `residual_sugar`, `chlorides`
 - `free_sulfur_dioxide`, `total_sulfur_dioxide`, `density`, `pH`, `sulphates`, `alcohol`
 
-### Exemple de Données :
-| fixed_acidity | volatile_acidity | citric_acid | residual_sugar | chlorides | ... |
-|---------------|------------------|-------------|----------------|-----------|-----|
-| 7.4           | 0.70             | 0.00        | 1.9            | 0.076     | ... |
 
 ---
 
@@ -91,3 +87,4 @@ Pour toute question ou suggestion, n'hésitez pas à me contacter :
 <div align="center">
   <img src="https://thumbs.dreamstime.com/b/graphique-de-gestion-17998087.jpg" alt="Wine Quality" width="200"/>
 </div>
+
